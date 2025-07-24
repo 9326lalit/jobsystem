@@ -94,8 +94,8 @@ All APIs return XML responses:
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/job-importer.git
-cd job-importer
+git clone https://github.com/9326lalit/jobsystem
+cd jobimporter
 
 # Install server
 cd server
