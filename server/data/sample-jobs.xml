@@ -1,0 +1,11 @@
+<rss>
+  <channel>
+    <item>
+      <title>Job Title</title>
+      <link>Job URL</link>
+      <description>Job Description</description>
+      <pubDate>Date</pubDate>
+      <location>Optional</location>
+    </item>
+  </channel>
+</rss>
